@@ -1,0 +1,15 @@
+{
+  "name": "test_unitaire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^20.0.4"
+  }
+}
